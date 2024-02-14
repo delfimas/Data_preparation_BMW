@@ -1,5 +1,8 @@
 # Data_preparation_BMW
-This project is a data analysis application developed in Python. It utilizes various Python libraries such as Pandas, NumPy, and Matplotlib to perform statistical analysis and data visualizations.
+
+This project involves an analysis of automobile data using a dataset that includes detailed information about various attributes of the vehicles. The main purpose is to perform data exploration and cleaning, as well as statistical analysis and visualization to obtain useful insights about automobiles and their market.
+
+The data analysis will include exploration of relationships between variables, identification of outliers, imputation of missing values, and visualization of patterns and trends. Additionally, statistical tests will be conducted to obtain valuable insights about the automotive market.
 
 Key features:
 - Exploratory data analysis
